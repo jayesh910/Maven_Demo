@@ -4,4 +4,4 @@ let "NUM = $(($first + $second))"
 echo "$NUM"
 echo "$NUM"
 #####
-echo ""
+echo "Hello GIT"
