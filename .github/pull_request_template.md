@@ -11,7 +11,7 @@
 - [ ] Dev
 - [ ] QA
 
-#Screenshots
+# Screenshots
 Original | Updated
 :------------------------:|:-------------------------:
-**Original Screenshot** | **Updated Screenshot** |
+**Original Screenshot** | **Updated Screenshot** 
